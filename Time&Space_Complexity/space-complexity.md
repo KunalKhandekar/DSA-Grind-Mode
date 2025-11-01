@@ -3,7 +3,7 @@
 ![alt text](space1.png)
 
 ## What is Space Complexity?
-Space complexity measures the total memory an algorithm uses during execution, including:
+> Space complexity measures the total memory an algorithm uses during execution, including:
 - Input data
 - Auxiliary variables
 - Data structures
